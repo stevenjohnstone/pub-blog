@@ -1,0 +1,8 @@
+public/
+hugo_server.log
+hugo_server_verbose.log
+hugo.log
+.hugo_build.lock
+/resources/_gen
+/assets/js/bundle.js
+/assets/js/bundle.js.map
