@@ -1,5 +1,5 @@
 baseURL = "https://stevenjohnstone.github.io/pub-blog/"
-title = "My Awesome Blog"
+title = "Something something AI something something something darkside!"
 [pagination]
   pagerSize = 5
 [module]
@@ -18,8 +18,8 @@ buildExpired = false
 
 [params]
   env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
-  description = "This is my awesome blog where I write about stuff."
-  author = "Your Name"
+  description = "Random stuff"
+  author = "Steven Johnstone"
 
   # home-info mode
   [params.homeInfoParams]
@@ -28,7 +28,7 @@ buildExpired = false
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/<YOUR-GITHUB-USERNAME>"
+    url = "https://github.com/stevenjohnstone"
 
 [[menu.main]]
   identifier = "archives"
