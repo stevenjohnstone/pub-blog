@@ -1,5 +1,5 @@
 baseURL = "https://blog.stevenjohnstone.net"
-title = "Something something AI something something something darkside!"
+title = "Something something something darkside!"
 [pagination]
   pagerSize = 5
 [module]
